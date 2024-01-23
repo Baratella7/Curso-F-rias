@@ -1,2 +1,2 @@
-# Curso-F-rias
+# CursoFérias
 Primeiro depositório git 
